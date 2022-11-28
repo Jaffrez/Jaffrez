@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Jaffrez
 - 👀 I’m interested in computer programing
 - 🌱 I’m currently learning C++
-- 📫 You can contact me by [email](mailto:Jaffrez@outlook.com)
+- 📫 You can contact me by email(Jaffrez@outlook.com)
 
 <!---
 Jaffrez/Jaffrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
