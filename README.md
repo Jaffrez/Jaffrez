@@ -7,3 +7,15 @@
 "/>
 <img alt="GitHub" src="https://img.shields.io/github/license/jaffrez/seewo_tools"/>
 <p/>
+
+Here are some fun facts about me:
+- I'm a high school student from China.
+- Rust is my favorite language although I'm still learning it.
+- I like programing and I wrote my first program when I was a pupil.
+
+
+**Nice to meet you and best wishes for you, my friends :)**
+
+[![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
