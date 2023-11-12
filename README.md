@@ -7,7 +7,7 @@
 "/>
 <img alt="GitHub" src="https://img.shields.io/github/license/jaffrez/seewo_tools"/>
 <p/>
-<img src="https://github.com/jaffrez/jaffrez/assert/ferris.gif" align="right" width="25%"/>
+<img src="https://github.com/Jaffrez/Jaffrez/blob/51dd20a3e88ee67559273fdf5a6f147b0258632a/assert/ferris.gif" align="right" width="25%"/>
 
 Here are some fun facts about me:
 
