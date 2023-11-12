@@ -11,7 +11,7 @@
 
 Here are some fun facts about me:
 
-- I'm a high school student from China.
+- I'm a senior high school student from China.
 
 - Rust is my favorite language although I'm still learning it.
 
