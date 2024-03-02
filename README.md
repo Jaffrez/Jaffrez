@@ -1,17 +1,14 @@
 <h3 align="center">Hi there, I'm Jaffrez</h3>
 <p align="middle">
-<img src="https://img.shields.io/badge/Best_Like-Rust-green"/>
 <img src="https://img.shields.io/badge/Coding...-8A2BE2"/>
 <img src="https://komarev.com/ghpvc/?username=jaffrez" alt="100"/>
 <img src="https://img.shields.io/github/stars/jaffrez"/>
 <p/>
-<img src="https://github.com/Jaffrez/Jaffrez/blob/51dd20a3e88ee67559273fdf5a6f147b0258632a/assert/ferris.gif" align="right" width="25%"/>
-
 Here are some fun facts about me:
 
 - I'm a senior high school student from China.
 
-- Rust is my favorite programming language and I'm still learning it.
+- __Rust__ Go is my favorite programming language and I'm still learning it.
 
 - I like programing and I wrote my first program when I was a pupil.
 
