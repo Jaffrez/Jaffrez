@@ -8,7 +8,7 @@ Here are some fun facts about me:
 
 - I'm a senior high school student from China.
 
-- __Rust__ Go is my favorite programming language and I'm still learning it.
+- ~~Rust~~ Go is my favorite programming language and I'm still learning it.
 
 - I like programing and I wrote my first program when I was a pupil.
 
