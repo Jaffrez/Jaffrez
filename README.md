@@ -18,4 +18,4 @@ Here are some fun facts about me:
 
 ![Jaffrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffrez&show_icons=true&theme=tokyonight)  
 [![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+[![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jaffrez/Jaffrez/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
