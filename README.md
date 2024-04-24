@@ -6,7 +6,7 @@
 <p/>
 Here are some fun facts about me:
 
-- I'm a senior high school student from China.
+- I'm a student from China.
 
 - Rust is my favorite programming language and I'm still learning them.
 
