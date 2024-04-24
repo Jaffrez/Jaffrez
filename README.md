@@ -10,7 +10,7 @@ Here are some fun facts about me:
 
 - I like programming and I start learning it when I was little.
 
-- Minecraft & TitanFall2 are my favorite game.
+- Minecraft & TitanFall2 are my favorite games.
 
 **Nice to meet you and best wishes for you, my friends :)**
 
