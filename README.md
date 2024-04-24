@@ -8,9 +8,9 @@ Here are some fun facts about me:
 
 - I'm a senior high school student from China.
 
-- Rust & Go is my favorite programming language and I'm still learning them.
+- Rust is my favorite programming language and I'm still learning them.
 
-- I like programing and I wrote my first program when I was a pupil.
+- I like programing and I wrote my first program when I was little.
 
 
 **Nice to meet you and best wishes for you, my friends :)**
