@@ -16,7 +16,7 @@
 
 ## Github Stats
 
-[![Dashboard stats of @Jaffrez](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117080567&image_size=auto&color_scheme=dark)](https://github.com/jaffrez/)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jaffrez&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaffrez&theme=tokyonight&hide_border=true" align="center"></div>
 
 <br/>
 
