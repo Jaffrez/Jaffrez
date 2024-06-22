@@ -1,0 +1,3 @@
+[workspace]
+members = [ "minichat-client","minichat-server"]
+resolver = "2"
