@@ -1,4 +1,4 @@
-## Hi there, I'm Jaffrez.
+## Hi there, I'm Jaffrez!
 
 [![Jaffrez's github stats](https://github-readme-stats.vercel.app/api?username=Jaffrez&count_private=true&show_icons=true)](https://github.com/Jaffrez)
 
