@@ -1,5 +1,13 @@
-## Hi there, I'm Jaffrez!
+## 👋 Hi there, I'm Jaffrez!
 
-[![Jaffrez's github stats](./profile/stats.svg)](https://github.com/Jaffrez)
+<p align="center">
+  <a href="https://github.com/Jaffrez">
+    <img align="center" src="./profile/stats.svg" alt="Jaffrez's github stats" height="170" />
+  </a>
+  <a href="https://github.com/Jaffrez">
+    <img align="center" src="./profile/top-langs.svg" alt="Top Langs" height="170" />
+  </a>
+</p>
 
-[![Top Langs](./profile/top-langs.svg)](https://github.com/Jaffrez)
+---
+🚀 **Check out my [Blog](https://jaffrez.io) for more information.**
