@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Jaffrez&show_icons=true
+          options: username=Jaffrez&count_private=true&show_icons=true&theme=tokyonight
           path: profile/stats.svg
           token: ${{ secrets.TOKEN }}
 
