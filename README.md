@@ -11,7 +11,7 @@
   </a>
 </p>
 
----
+--
 
 🚀 **Check out my [Blog](https://jaffrez.io) for more information.**
 
